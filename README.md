@@ -7,7 +7,7 @@ Objectives:
 3. Understand its limitations
 
 Other learning points:
-- Deriving the error function - NEED TO FINISH THIS
+- Deriving the error function
 - Finding the learning rate
 - Maximum accuracy for a single neuron emulating XOR.
 
@@ -25,8 +25,14 @@ Objectives:
 
 I followed the PyTorch tutorials to help with understanding before the tutorial: https://pytorch.org/tutorials/beginner/basics/intro.html. 
 
-## Assignment 1
+## Lab 4 
+Objectives:
+1. Write a convolutional neural network for the MNIST Database
+
+## Coursework
 
 Wrote a critique on the paper _"Artificial intelligence in healthcare: past, present and future"_ by Jiang et al. 
 
 ## Extra MATLAB code
+1. Markov chain
+2. Radial basis function kernel
